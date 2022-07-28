@@ -204,6 +204,7 @@
     }
     .logo img{
         cursor: pointer;
+        z-index: 1;
     }
     .social img{
         margin-left: 10px;
@@ -221,8 +222,10 @@
         width: 255px;
         height: 15px;
         margin-top: 15px;
+        cursor: pointer;
     }
     .bg{
         margin-bottom: 36px;
         color:#837D88;
+        z-index: 1;
     }
